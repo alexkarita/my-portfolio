@@ -1,0 +1,13 @@
+body{
+    background-color: #101010;
+}
+h1{
+    color: white;
+    font-size: 75px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+li{
+    color: white;
+    font-size: 30px;
+}
